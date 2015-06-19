@@ -1,0 +1,29 @@
+/** 
+ * Pinzon solution:
+ * http://stackoverflow.com/questions/20005278/twitter-bootstrap-3-vertically-center-content
+ * This was the only solution that worked responsively, for my project
+ **/
+[class*='col-'] {
+  float:none;
+  display:inline-block;
+  vertical-align:middle;
+  margin-right:-4px;
+}
+
+.my-thumbs {
+  text-align: center;
+}
+
+.my-thumbs img {
+  padding-bottom: 5px;
+}
+
+.copyright-section {
+  margin-bottom: 40px;
+  margin-right: 20px;
+  float: right;
+}
+
+.debug {
+  border: 1px solid red;
+}
