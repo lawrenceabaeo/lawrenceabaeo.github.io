@@ -22,7 +22,7 @@
             "heading2": "Costume Contest Results API", 
             "description": "This API gives clients costume contest results data in json format. The backend is Ruby on Rails with help from the active_model_serializers gem and the rack-cors gem.",
             "thumb1": "./img/rest-api_thumb.jpg",
-            "thumb1_url": "http://rest-api-costume-contest.herokuapp.com/api/v1/contests/1.json",
+            "thumb1_url": "http://lawrenceabaeo.github.io/rest-api-costume-contest/project/index.html",
             "thumb1_alt": "Thumbnail image of rest api results as viewed in a browser.",
             "thumb2": "./img/rest-logo-thumb.jpg",
             "thumb2_url": "",
