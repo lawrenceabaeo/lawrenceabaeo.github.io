@@ -28,24 +28,40 @@
   border: 1px solid red;
 }
 
+.container {
+  min-height: 1000px; /* I got annoyed with the footer being seen on load */
+}
+
 .project.ng-enter { 
+  -webkit-animation-name: slide-from-left;
   animation-name: slide-from-left;
+  -webkit-animation-duration: .6s;
   animation-duration: .6s;
 }
 
 .project.ng-enter-stagger { 
+  -webkit-animation-delay: .2s;
   animation-delay: .2s;
 }
 
 @keyframes slide-from-left {
   0% {
+    -webkit-transform: translate(-2000px, 0px);
     transform: translate(-2000px, 0px);
   }
   100% {
+    -webkit-transform: translate(0px, 0px);
     transform: translate(0px, 0px);
   }
 }
 
-.container {
-  min-height: 1000px; /* I got annoyed with the footer being seen on load */
+@-webkit-keyframes slide-from-left {
+  0% {
+    -webkit-transform: translate(-2000px, 0px);
+    transform: translate(-2000px, 0px);
+  }
+  100% {
+    -webkit-transform: translate(0px, 0px);
+    transform: translate(0px, 0px);
+  }
 }
