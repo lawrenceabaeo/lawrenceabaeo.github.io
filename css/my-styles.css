@@ -27,3 +27,25 @@
 .debug {
   border: 1px solid red;
 }
+
+.project.ng-enter { 
+  animation-name: slide-from-left;
+  animation-duration: .6s;
+}
+
+.project.ng-enter-stagger { 
+  animation-delay: .2s;
+}
+
+@keyframes slide-from-left {
+  0% {
+    transform: translate(-2000px, 0px);
+  }
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+.container {
+  min-height: 1000px; /* I got annoyed with the footer being seen on load */
+}

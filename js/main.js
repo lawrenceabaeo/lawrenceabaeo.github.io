@@ -1,5 +1,5 @@
 // MODULE
-var myApp = angular.module('myApp', ['ngRoute']);
+var myApp = angular.module('myApp', ['ngRoute','ngAnimate']);
 
 // SERVICES
 // got help with promises at
@@ -24,7 +24,7 @@ myApp.config(function($routeProvider) {
 });
 
 // CONTROLLER
-myApp.controller('ProjectsController', ['$scope','getJSONDataService', function($scope, getJSONDataService) {
+myApp.controller('ProjectsController', ['$scope', '$animate', 'getJSONDataService', function($scope, $animate, getJSONDataService) {
  var promise = getJSONDataService.getData(); 
    promise.then(function (data) {
      $scope.works = data.data.projects;
