@@ -27,7 +27,7 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <div class="container">
+        <div class="main-stuff container">
 
         <!-- Page Heading -->
         <div class="row">
@@ -36,18 +36,33 @@
                   <!-- <small>Secondary Text</small> -->
                 </h1>
             </div>
-        </div>
-        <!-- /.row -->
+        </div><!-- /.row -->
 
         <div ng-view></div>
 
       </div><!-- div class="container" -->
 
-      <footer>
-        <hr>
-        <div class="copyright-section"
-          <small>Copyright &copy; 2015.</small><br>
-        </div>
+      <footer class='footer'>
+        <div class='container'>
+          <div class='row bottom'>
+
+            <div class='col-md-3 col-md-offset-7 profile-pic'>
+              <img src='./img/profile-pic_thumb.jpg'>
+            </div>
+
+            <div class='col-md-2 contact-area'>
+              <h2>Contact</h2>
+              <address>
+                <strong>Lawrence</strong><br>
+                <a href='https://www.linkedin.com/pub/lawrence-abaeo/3/271/320'>LinkedIn Profile</a><br>
+                <a href='https://github.com/lawrenceabaeo'>Github Profile</a><br>
+                Email: labaeo AT gmail
+              </address>
+              <p>&copy; Copyright 2015</p>
+            </div>
+
+          </div><!-- row bottom -->
+        </div><!-- container -->
       </footer>
 
       <script src="js/plugins.js"></script>

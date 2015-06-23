@@ -28,8 +28,9 @@
   border: 1px solid red;
 }
 
-.container {
+.main-stuff.container {
   min-height: 1000px; /* I got annoyed with the footer being seen on load */
+  padding-bottom: 100px;
 }
 
 .project.ng-enter { 
@@ -68,4 +69,25 @@
 
 .top-h1 {
   border-bottom: none; /* override bootstrap theme */
+}
+
+.footer {
+  /* background-image: linear-gradient(to bottom, #b5d9e1, #e6f2f5); */
+  background-image: linear-gradient(to bottom, #337ab7, #ffffff);
+}
+
+.bottom {
+  padding: 10px 0px;
+}
+
+.contact-area {
+  /* border: 1px solid yellow; */
+}
+
+.contact-area h2 {
+  color: white;
+}
+
+.profile-pic {
+  /* border: 3px solid blue; */
 }
