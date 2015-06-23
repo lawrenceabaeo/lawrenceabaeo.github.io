@@ -1,11 +1,11 @@
 <div class="row project" ng-repeat="p in works"> 
   <hr>
   <div class="col-md-6 col-md-offset-1 my-thumbs">
-    <a ng-if="p.thumb1_url != ''" href="{{ p.thumb1_url }}">
+    <a ng-if="p.thumb1_url != ''" href="{{ p.thumb1_url }}" target='_blank' >
       <img ng-src="{{ p.thumb1 }}" alt="{{ p.thumb1_alt }}">
     </a> 
     <img ng-if="p.thumb1_url == ''" ng-src="{{ p.thumb1 }}" alt="{{ p.thumb1_alt }}">
-    <a ng-if="p.thumb2_url != ''" href="{{ p.thumb2_url }}">
+    <a ng-if="p.thumb2_url != ''" href="{{ p.thumb2_url }}" target='_blank' >
       <img ng-src="{{ p.thumb2 }}" alt="{{ p.thumb2_alt }}">
     </a> 
     <img ng-if="p.thumb2_url == ''" ng-src="{{ p.thumb2 }}" alt="{{ p.thumb2_alt }}">
@@ -15,7 +15,7 @@
     <h3>{{ p.heading1 }}<small>&nbsp;|&nbsp;{{ p.occurrence }}</small></h3>
     <h4>{{ p.heading2 }}</h4>
     <p>{{ p.description }}</p>
-    <a class="btn btn-primary" href="{{ p.project_landing_url }}">View Project<span class="glyphicon glyphicon-chevron-right"></span></a>
+    <a class="btn btn-primary" href="{{ p.project_landing_url }}" target='_blank' >View Project<span class="glyphicon glyphicon-chevron-right"></span></a>
   </div>
 
 </div><!-- /.row -->
