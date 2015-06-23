@@ -27,8 +27,8 @@
             "thumb2": "./img/rest-logo-thumb.jpg",
             "thumb2_url": "",
             "thumb2_alt": "Thumbnail image of rest api results as viewed in a browser.",
-            "project_info_page_url": "http://lawrenceabaeo.github.io/rest-api-costume-contest/",
-            "project_landing_url": "http://lawrenceabaeo.github.io/rest-api-costume-contest/project/index.html" 
+            "project_info_page_url": "http://lawrenceabaeo.github.io/rest-api-costume-contest/project/index.html",
+            "project_landing_url": "http://lawrenceabaeo.github.io/rest-api-costume-contest" 
           },
           {
             "id": 3,
