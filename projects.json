@@ -1,6 +1,21 @@
 {
   "projects": [
           {
+            "id": 7,
+            "heading1": "CSS3 Animated Logo Mini-Example",
+            "occurrence": "July 2015",
+            "heading2": "Copying the Love Live School idol logo", 
+            "description": "This pure css3 animated logo mini-project copies the animated logo seen in promotional videos for the Japanese entertainment property ‘Love Live School idol project’.",
+            "thumb1": "./img/css3-animated-logo_thumb.jpg",
+            "thumb1_url": "http://lawrenceabaeo.github.io/love-live-animated-pv-logo/project/index.html",
+            "thumb1_alt": "Thumbnail image of CSS3 letter animation",
+            "thumb2": "./img/css_logo_thumb.jpg",
+            "thumb2_url": "",
+            "thumb2_alt": "Logo image of CSS",
+            "project_info_page_url": "http://lawrenceabaeo.github.io/love-live-animated-pv-logo/",
+            "project_landing_url": "http://lawrenceabaeo.github.io/love-live-animated-pv-logo/project/index.html" 
+          },
+          {
             "id": 1,
             "heading1": "AngularJS Mini-Example",
             "occurrence": "June 2015",
