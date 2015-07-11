@@ -29,7 +29,7 @@
 }
 
 .main-stuff.container {
-  min-height: 1000px; /* I got annoyed with the footer being seen on load */
+  min-height: 1080px; /* I got annoyed with the footer being seen on load */
   padding-bottom: 100px;
 }
 
