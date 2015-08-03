@@ -63,7 +63,9 @@
 
 .top-h1 {
   border-bottom: none; /* override bootstrap theme */
-  font-weight: bold;
+  /* font-weight: bold; */
+  font-size: 2.5em;
+  font-style: italic;
 }
 
 .footer {
@@ -98,4 +100,9 @@ body {
 
 .btn {
   border-radius: 0px; /* override bootstrap */
+}
+
+header {
+  background-color: #000000;
+  color: #FFFFFF;
 }
