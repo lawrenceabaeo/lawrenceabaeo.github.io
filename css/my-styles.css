@@ -68,7 +68,8 @@
 
 .footer {
   /* background-image: linear-gradient(to bottom, #b5d9e1, #e6f2f5); */
-  background-image: linear-gradient(to bottom, #337ab7, #ffffff);
+  /* background-image: linear-gradient(to bottom, #337ab7, #ffffff); */
+  background-color: #337ab7;
 }
 
 .bottom {
@@ -77,9 +78,13 @@
 
 .contact-area {
   /* border: 1px solid yellow; */
+  color: white;
 }
 
-.contact-area h2 {
+.contact-area a:link,
+.contact-area a:visited,
+.contact-area a:hover,
+.contact-area a:active {
   color: white;
 }
 
