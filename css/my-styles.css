@@ -85,3 +85,7 @@
 .profile-pic {
   /* border: 3px solid blue; */
 }
+
+body {
+  font-family: "Lato";
+}
