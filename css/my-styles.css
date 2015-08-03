@@ -88,5 +88,9 @@
 }
 
 body {
-  font-family: "Lato";
+  font-family: "Lato"; /* override bootstrap */
+}
+
+.btn {
+  border-radius: 0px; /* override bootstrap */
 }
