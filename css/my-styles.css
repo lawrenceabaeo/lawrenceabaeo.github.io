@@ -106,3 +106,8 @@ header {
   background-color: #000000;
   color: #FFFFFF;
 }
+
+div.project:nth-child(1) hr {
+  border-style: none;
+  margin-top: 0px;
+}
