@@ -1,6 +1,21 @@
 {
   "projects": [
           {
+            "id": 8,
+            "heading1": "Make It Like The Screenshot",
+            "occurrence": "August 2015",
+            "heading2": "Copying the Love Live Group Ranking Web Page", 
+            "description": "This front-end project creates a web page based on screenshots from a website shown in an anime.",
+            "thumb1": "./img/screenshot_rank_page_thumb.png",
+            "thumb1_url": "http://lawrenceabaeo.github.io/love-live-group-rank-screen/project/index.html",
+            "thumb1_alt": "Thumbnail image of the Love Live group ranking web page",
+            "thumb2": "./img/anime_screenshots_thumb.png",
+            "thumb2_url": "",
+            "thumb2_alt": "Logo image of CSS",
+            "project_info_page_url": "http://lawrenceabaeo.github.io/love-live-group-rank-screen",
+            "project_landing_url": "http://lawrenceabaeo.github.io/love-live-group-rank-screen" 
+          },    
+          {
             "id": 7,
             "heading1": "CSS3 Animated Logo Mini-Example",
             "occurrence": "July 2015",
