@@ -84,11 +84,11 @@
             "thumb1": "./img/css_backdrop_thumb.jpg",
             "thumb1_url": "http://lawrenceabaeo.github.io/css-love-live-stage-tvs-background/mogyutto-backdrop/main.html",
             "thumb1_alt": "Thumbnail image of the CSS mini project that imitates a prop seen in the Japanese Anime 'Love Live School Idol'.",
-            "thumb2": "./img/css_logo_thumb.jpg",
-            "thumb2_url": "",
+            "thumb2": "./img/mogyutto_screen_thumb.png",
+            "thumb2_url": "http://lawrenceabaeo.github.io/css-love-live-stage-tvs-background",
             "thumb2_alt": "Thumbnail image of screenshot from Love Live School Idol promotional video.",
-            "project_info_page_url": "http://lawrenceabaeo.github.io/css-love-live-stage-tvs-background/",
-            "project_landing_url": "http://lawrenceabaeo.github.io/css-love-live-stage-tvs-background/mogyutto-backdrop/main.html" 
+            "project_info_page_url": "http://lawrenceabaeo.github.io/css-love-live-stage-tvs-background",
+            "project_landing_url": "http://lawrenceabaeo.github.io/css-love-live-stage-tvs-background" 
           },
           {
             "id": 5,
