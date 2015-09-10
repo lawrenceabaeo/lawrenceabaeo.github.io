@@ -64,8 +64,9 @@
 .top-h1 {
   border-bottom: none; /* override bootstrap theme */
   /* font-weight: bold; */
+  font-family: 'Lustria', serif;
   font-size: 2.5em;
-  font-style: italic;
+  /* font-style: italic; */
 }
 
 .footer {
@@ -76,6 +77,10 @@
 
 .bottom {
   padding: 10px 0px;
+}
+
+.contact-header {
+  font-family: 'Lustria', serif;
 }
 
 .contact-area {
