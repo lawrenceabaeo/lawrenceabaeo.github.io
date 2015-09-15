@@ -57,8 +57,8 @@
             "thumb2": "./img/angular_thumb.jpg",
             "thumb2_url": "",
             "thumb2_alt": "Logo image of AngularJS organization",
-            "project_info_page_url": "http://lawrenceabaeo.github.io/angularjs-costume-contest-results-api-client/",
-            "project_landing_url": "http://lawrenceabaeo.github.io/angularjs-costume-contest-results-api-client/projects/" 
+            "project_info_page_url": "http://lawrenceabaeo.github.io/angularjs-costume-contest-results-api-client",
+            "project_landing_url": "http://lawrenceabaeo.github.io/angularjs-costume-contest-results-api-client" 
           },
           {
             "id": 2,
