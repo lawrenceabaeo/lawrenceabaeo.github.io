@@ -1,11 +1,26 @@
 {
   "projects": [
           {
+            "id": 10,
+            "heading1": "Copy the Time Circuits",
+            "occurrence": "September 2015",
+            "heading2": "Pretend to have Time Circuits, in JS/jQuery/CSS",
+            "description": "** NOTE: Under construction! ** A front-end page that copies the time circuits display from the Back To The Future movies.",
+            "thumb1": "./img/bttf_screenshot_thumb_200.png",
+            "thumb1_url": "http://lawrenceabaeo.github.io/back-to-the-future-time-circuits-using-front-end-tech/project/index.html",
+            "thumb1_alt": "Thumbnail image of the Time Circuits front-end app",
+            "thumb2": "./img/bttf_movie_snapshot_thumb_200.png",
+            "thumb2_url": "http://lawrenceabaeo.github.io/back-to-the-future-time-circuits-using-front-end-tech/",
+            "thumb2_alt": "Thumbnail image of Ayame with her flip phone",
+            "project_info_page_url": "http://lawrenceabaeo.github.io/back-to-the-future-time-circuits-using-front-end-tech/",
+            "project_landing_url": "http://lawrenceabaeo.github.io/back-to-the-future-time-circuits-using-front-end-tech/"
+          },
+          {
             "id": 9,
             "heading1": "Copy the Anime Timer",
             "occurrence": "September 2015",
             "heading2": "Make a Working Countdown Timer in JS/jQuery/CSS", 
-            "description": "Another front-end mini-project that makes a real life version of an anime app.",
+            "description": "Another front-end mini-project that makes a real life version of an anime app. Click or tap on the numbers to start/stop the timer!",
             "thumb1": "./img/timer_thumb_200.png",
             "thumb1_url": "http://lawrenceabaeo.github.io/shimoneta-anti-pm-interface/project/index.html",
             "thumb1_alt": "Thumbnail image of the ANTI PM TIMER app",
@@ -13,8 +28,8 @@
             "thumb2_url": "http://lawrenceabaeo.github.io/shimoneta-anti-pm-interface",
             "thumb2_alt": "Thumbnail image of Ayame with her flip phone",
             "project_info_page_url": "http://lawrenceabaeo.github.io/shimoneta-anti-pm-interface",
-            "project_landing_url": "http://lawrenceabaeo.github.io/shimoneta-anti-pm-interface" 
-          }, 
+            "project_landing_url": "http://lawrenceabaeo.github.io/shimoneta-anti-pm-interface"
+          },
           {
             "id": 8,
             "heading1": "Make It Like The Screenshot",
