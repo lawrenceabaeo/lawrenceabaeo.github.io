@@ -1,7 +1,7 @@
 # lawrenceabaeo.github.io
-Developer Portfolio
+Coding Projects and Features Portfolio
 
-This is the source code for my Github pages developer portfolio. 
+This is the source code for my Github pages that features coding projects I've completed. 
 
 Check it out at: 
 [lawrenceabaeo.github.io](lawrenceabaeo.github.io)
