@@ -1,21 +1,6 @@
 {
   "projects": [
           {
-            "id": 11,
-            "heading1": "PHP Mini App",
-            "occurrence": "January 2016",
-            "heading2": "Generate a Metal Gear Code Name!",
-            "description": "A PHP mini app that uses arrays to generate a Diamond Dogs style code name.",
-            "thumb1": "./img/names_screenshot_thumb_200.png",
-            "thumb1_url": "http://openshiftnamegenerator00-openshiftnamegenerator00.7e14.starter-us-west-2.openshiftapps.com/",
-            "thumb1_alt": "Thumbnail image of the Time Circuits front-end app",
-            "thumb2": "./img/PHP_Logo_thumb_200.png",
-            "thumb2_url": "",
-            "thumb2_alt": "Thumbnail image of php logo",
-            "project_info_page_url": "https://github.com/lawrenceabaeo/name_generator_01",
-            "project_landing_url": "https://github.com/lawrenceabaeo/name_generator_01"
-          },
-          {
             "id": 10,
             "heading1": "Copy the Time Circuits",
             "occurrence": "September 2015",
